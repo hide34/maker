@@ -12,7 +12,7 @@ timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://makerblog.work/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -109,6 +109,13 @@ image_minifier:
 
 sitemap:
     path: sitemap.xml
+
+robotstxt:
+  useragent: "*"
+  disallow:
+    - /img/
+  allow:
+  sitemap: https://makerblog.work/sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
