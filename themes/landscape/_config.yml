@@ -2,7 +2,9 @@
 menu:
   Home: /
   Archives: /archives
+  Profile: /profile
   Privacy Policy: /privacy
+  Contact: /contact
 rss: /atom.xml
 
 # Content
