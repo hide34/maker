@@ -126,16 +126,16 @@ fieldset {
     <h3>問い合わせフォーム</h3>
     <h4>ご意見、ご感想ありましたらご連絡よろしくお願いします</h4>
     <fieldset>
-      <input placeholder="名前" type="text" tabindex="1" required autofocus>
+      <input placeholder="名前" type="text" tabindex="1" name="name" required autofocus>
     </fieldset>
     <fieldset>
-      <input placeholder="メールアドレス" type="email" tabindex="2" required>
+      <input placeholder="メールアドレス" type="email" tabindex="2" name="address" required>
     </fieldset>
     <fieldset>
-      <textarea placeholder="本文" tabindex="5" required></textarea>
+      <textarea placeholder="本文" tabindex="5" name="info" required></textarea>
     </fieldset>
     <fieldset>
-      <button name="submit" type="submit" id="contact-submit" data-submit="送信">送信</button>
+      <button name="submit" type="submit" id="contact-submit">送信</button>
     </fieldset>
   </form>
 </div>
