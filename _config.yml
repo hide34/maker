@@ -81,6 +81,8 @@ feed:
   hub: http://pubsubhubbub.appspot.com/
   content:
 
+all_minifier: true
+
 html_minifier:
   enable: true
   ignore_error: false
