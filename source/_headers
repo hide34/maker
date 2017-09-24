@@ -3,3 +3,5 @@
   Link: </js/script.js>; rel=preload; as=script
   Link: </fancybox/jquery.fancybox.css>; rel=preload; as=stylesheet
   Link: </fancybox/jquery.fancybox.pack.js>; rel=preload; as=script
+  Link: </css/fonts/fontawesome-webfont.woff>; rel=preload; as=font
+  Link: </css/images/banner.jpg>; rel=preload; as=image
