@@ -1,0 +1,5 @@
+/*
+  Link: </css/style.css>; rel=preload; as=stylesheet
+  Link: </js/script.js>; rel=preload; as=script
+  Link: </fancybox/jquery.fancybox.css>; rel=preload; as=stylesheet
+  Link: </fancybox/jquery.fancybox.pack.js>; rel=preload; as=script
