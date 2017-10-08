@@ -5,3 +5,4 @@
   Link: </fancybox/jquery.fancybox.pack.js>; rel=preload; as=script
   Link: </css/fonts/fontawesome-webfont.woff>; rel=preload; as=font
   Link: </css/images/banner.jpg>; rel=preload; as=image
+  <link rel="preload" href="//fonts.googleapis.com/css?family=Montserrat" as="font" crossorigin>
